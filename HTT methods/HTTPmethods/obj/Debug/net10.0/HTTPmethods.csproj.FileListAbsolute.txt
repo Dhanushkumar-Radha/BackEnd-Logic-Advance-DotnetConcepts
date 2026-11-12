@@ -31,3 +31,4 @@ D:\DotnetLearning\HTT methods\HTTPmethods\obj\Debug\net10.0\refint\HTTPmethods.d
 D:\DotnetLearning\HTT methods\HTTPmethods\obj\Debug\net10.0\HTTPmethods.pdb
 D:\DotnetLearning\HTT methods\HTTPmethods\obj\Debug\net10.0\HTTPmethods.genruntimeconfig.cache
 D:\DotnetLearning\HTT methods\HTTPmethods\obj\Debug\net10.0\ref\HTTPmethods.dll
+D:\DotnetLearning\HTT methods\HTTPmethods\obj\Debug\net10.0\HTTPmethods.sourcelink.json
